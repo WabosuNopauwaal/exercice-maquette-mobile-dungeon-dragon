@@ -17,6 +17,9 @@
 
 html {
   font-size: 16px;
+  max-width: 415px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 body {
@@ -39,6 +42,14 @@ video {
   vertical-align: text-top;
 }
 
+h1 {
+  text-align: center;
+}
+
+div {
+  background-color: #df0000;
+  text-align: center;
+}
 /* ====================================
 // base rules
 // ==================================== */
